@@ -59,10 +59,11 @@ The group **may** produce test suites to support the specifications. See the Git
 
 ## Dependencies or Liaisons
 
-The subject matter of this group is relevant to others working in security, privacy, and digital identity, online social interaction as well as fundamental web architecture. The Community Group plans to seek feedback from such groups as the Privacy Working Group, Security Working Group, Federated Identity Working Group, Verifiable Credentials Working Group, Social Web Community Group and the TAG.
+The subject matter of this group is relevant to others working in security, privacy, and digital identity, accessibility, online social interaction as well as fundamental web architecture. The Community Group plans to seek feedback from such groups as the Privacy Working Group, Security Working Group, Federated Identity Working Group, Verifiable Credentials Working Group, Social Web Community Group, the Accessible Rich Internet Applications Working Group, the Accessibility Guidelines Working Group, the Browser Testing and Tools Working Group and the TAG.
 
 The Community Group plans to seek feedback from other standard-setting bodies and organizations working on related topics, including at least:
 
+* [WHATWG](https://whatwg.org/)
 * IEEE and ISO Working Groups related to age verification and parental controls
 * [Internet Architecture Board](https://www.iab.org/) ([RFC 9998](https://datatracker.ietf.org/doc/rfc9998/); [IAB Statement on Age-Based Restrictions and Online Safety](https://datatracker.ietf.org/doc/statement-iab-statement-on-age-based-restrictions-and-online-safety/) ), or any related IETF or IRTF groups
 
