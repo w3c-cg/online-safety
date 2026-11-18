@@ -59,7 +59,7 @@ The group **may** produce test suites to support the specifications. See the Git
 
 ## Dependencies or Liaisons
 
-The subject matter of this group is relevant to others working in security, privacy, and digital identity, online social interaction as well as fundamental web architecture. The Community Group plans to seek feedback from such groups as the Privacy Working Group, Security Working Group, Federated Identity Working Group, Verifiable Credentials Working Group, Social Web Community Group and the TAG.
+The subject matter of this group is relevant to others working in security, privacy, and digital identity, online social interaction as well as fundamental web architecture. The Community Group plans to seek feedback from such groups as the Privacy Working Group, Security Interest Group, Federated Identity Working Group, Verifiable Credentials Working Group, Social Web Incubator Community Group and the TAG.
 
 The Community Group plans to seek feedback from other standard-setting bodies and organizations working on related topics, including at least:
 
