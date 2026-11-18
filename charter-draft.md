@@ -45,6 +45,8 @@ The chairs will update the charter to reflect decisions to adopt or remove deliv
 
 ### Specifications
 
+* The `<agecheck>` element: an HTML element that lets a site ask which age group a person is in, from groups the site names. See the [draft specification](https://online-safety.github.io/agecheck/) and the [explainer](https://github.com/online-safety/agecheck/blob/main/README.md).
+
 _for example, age range signaling / age check specification_
 
 ### Non-Normative Reports
